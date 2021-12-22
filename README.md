@@ -1,4 +1,4 @@
-# Inverser_le_contenu_d-un_fichier_en_C
+# Inverser le contenu d'un fichier en C
 Programme en C qui inverse le contenu d'un fichier.
 
 # Utilisation
