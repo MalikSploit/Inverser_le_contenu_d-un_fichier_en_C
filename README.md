@@ -2,10 +2,10 @@
 Programme en C qui inverse le contenu d'un fichier.
 
 # Utilisation
-On met du texte dans le fichier : Fichier.txt
+On met du texte dans le fichier : `Fichier.txt`
 
 # Compilation
-gcc -o main main.c
+`gcc -o main main.c`
 
 # Execution
-./main
+`./main`
