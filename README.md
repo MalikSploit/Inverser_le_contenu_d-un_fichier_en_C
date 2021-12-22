@@ -7,5 +7,5 @@ On met du texte dans le fichier : Fichier.txt
 # Compilation
 gcc -o main main.c
 
-#Execution
+# Execution
 ./main
